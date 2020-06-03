@@ -37,6 +37,21 @@ How to install jenkins on ubuntu
     16) ctrl + c ( to stop runing jenkins with war file )
     
  Install tomcat9
+    17) wget https://archive.apache.org/dist/tomcat/tomcat-9/v9.0.0.M10/bin/apache-tomcat-9.0.0.M10.tar.gz
+    18) tar xzf apache-tomcat-9.0.0.M10.tar.gz
+    19) mv apache-tomcat-9.0.0.M10 tomcat9  (you have install tomcat)
+ 
+ Deploy tomcat to war file:
+    20) cd tomcat/ then ls
+    21) cd webapps/ then ls
+    22) cp jenkins.war tomcat9/webapps/ ( have deploy war file to webapps )
+    23) cd bin
+    22) ./startup.sh
+    
+  
+    
+   
+
  
 
 

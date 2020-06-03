@@ -48,6 +48,10 @@ How to install jenkins on ubuntu
     23) cd bin
     22) ./startup.sh
     
+    
+ refe: (1)  https://hostadvice.com/how-to/how-to-install-jenkins-automation-server-on-ubuntu-18-04/
+       (2)  https://www.edureka.co/blog/install-jenkins/
+    
   
     
    
